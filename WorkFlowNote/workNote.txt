@@ -1,0 +1,12 @@
+﻿
+at work folder, added git command
+
+git init    
+git add README.md 
+git commit -m "first commit" 
+
+<>commit frst version to github.
+<>First push to remote
+
+git remote add origin https://github.com/RogerNieGit/CoreAPI
+git push -u origin maste
